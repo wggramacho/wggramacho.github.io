@@ -1,0 +1,9 @@
+title: "Wladimir G. Gramacho"
+description: "Political communication, public health communication, and misinformation"
+url: "https://wggramacho.github.io"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-sitemap
