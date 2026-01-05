@@ -10,7 +10,7 @@ title: Publications
 
 - Gramacho, W., Turgeon, M., Mundim, P. S., & Pereira, I. (2024). Why did Brazil fail to vaccinate children against COVID-19 during the pandemic? *Vaccine*, 42, 315–321. https://doi.org/10.1016/j.vaccine.2023.11.064
 
-- Gramacho, W. G., Freire, A., Mundim, P. S., & Gomes, V. L. (2023). Does the media influence the Brazilian Congress? *Revista Brasileira de Ciência Política*, 40, 1–27. https://doi.org/10.1590/0103-3352.2023.40.264265
+- Gramacho, W., Freire, A., Mundim, P. S., & Gomes, V. L. (2023). Does the media influence the Brazilian Congress? *Revista Brasileira de Ciência Política*, 40, 1–27. https://doi.org/10.1590/0103-3352.2023.40.264265
 
 ## Books
 
