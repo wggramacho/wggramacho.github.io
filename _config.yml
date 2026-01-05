@@ -3,6 +3,12 @@ description: "Political communication, public health communication, and misinfor
 url: "https://wggramacho.github.io"
 baseurl: ""
 
+header_pages:
+  - index.md
+  - publications.md
+  - cv.md
+  - contact.md
+
 theme: minima
 
 plugins:
