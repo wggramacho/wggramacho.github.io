@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## Peer-reviewed journal articles
+## Selected peer-reviewed journal articles
 
 - Gramacho, W., Vidigal, R., & Stabile, M. (2025).
   Issue framing effects across information environments.
