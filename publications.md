@@ -7,7 +7,7 @@ title: Publications
 - Gramacho, W., Vidigal, R., & Stabile, M. (2025).
   Issue framing effects across information environments.
   *Political Behavior*, 47, 1–20.
-  https://doi.org/10.1007/s11109-025-10026-6
+  https://doi.org/10.1007/s11109-025-10026-6.
 
 - Gramacho, W., Turgeon, M., & Fernandez, M. (2024).
   Media use and adherence to non-pharmaceutical interventions during COVID-19 in Brazil.
