@@ -26,3 +26,14 @@ title: Publications
   Does the media influence the Brazilian Congress?
   *Revista Brasileira de Ciência Política*, 40, 1–27.
   [https://doi.org/10.1590/0103-3352.2023.40.264265](https://doi.org/10.1590/0103-3352.2023.40.264265)
+
+- Gramacho, W. (2022).
+  It’s dangerous: glorification of risk in the media and young people’s attitudes towards driving.
+  *Intercom: Revista Brasileira de Ciências da Comunicação*, 45, e2022114.
+  [https://doi.org/10.1590/1809-58442022114en](https://doi.org/10.1590/1809-58442022114en)
+
+
+- Gramacho, W. G., & Turgeon, M. (2021).
+  When politics collides with public health: COVID-19 vaccine country of origin and vaccination acceptance in Brazil.
+  *Vaccine*, 39(19), 2608-2612.
+  [https://doi.org/10.1016/j.vaccine.2021.03.080](https://doi.org/10.1016/j.vaccine.2021.03.080)
